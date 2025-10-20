@@ -1,6 +1,4 @@
-# Student-Course-Hub-project
-
-This is a website built for university, where there are mainly 3 class of user i.e. student,staff,admin. Prospective student can register themselves. Staff can see their academic stuffsand admin can bring changes to program, module leader,access list of students registered and many more.
+This is a website built for university, where there are mainly 3 class of user i.e. student, staff, admin. Prospective student can register themselves. Staff can see their academic stuffsand admin can bring changes to program, module leader, access list of students registered and many more.
 
 1. At first extract the folder 'our_project'.Copy 'web_app_project' from the 'our_project' folder to htdocs/.
 
@@ -11,9 +9,13 @@ Database name should be exactly same and no other database with same name should
 
 4. Now open the folder web_app_project in VS Code or any IDE you are using.
 
-5. GO to your browser and type only localhost/web_app_project. You can view our project. If there is any error called 'Not Found' , probably you couldn't set it up. Check your folder in htdocs, if it is web_app_project/web_app_project
+5. GO to your browser and type only localhost/web_app_project. You can view our project. If there is any error called 'Not Found', probably you couldn't set it up. Check your folder in htdocs, if it is web_app_project/web_app_project
 
-6. Password to enter student, staff and admin account are provided below:
+6. I personally added the "Web Layout.docx" for providing our initial blueprint for the project.
+
+7. I have also provided my separately done work in a seaprate fzip file called "my_particular_tasks.zip" for better understanding of my contribution to the project.
+
+8. Password to enter student, staff and admin account are provided below:
 
 "Student": 
 email: tahiru@gmail.com
